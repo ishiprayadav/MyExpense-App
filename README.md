@@ -1,4 +1,4 @@
-# MyWallet App
+# MyExpenses App
 
 An app to keep track of all user transactions & display a bar graph showing transactions made on each day over the last week.
 
@@ -19,5 +19,5 @@ An app to keep track of all user transactions & display a bar graph showing tran
 
 ## Created & Maintained by
 
-### **Amartya Yadav**
+### **Simran Yadav**
 ---
