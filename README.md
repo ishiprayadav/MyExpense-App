@@ -1,4 +1,4 @@
-# MyExpenses App
+# MyExpense App
 
 An app to keep track of all user transactions & display a bar graph showing transactions made on each day over the last week.
 
